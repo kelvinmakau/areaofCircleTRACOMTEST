@@ -1,3 +1,7 @@
+"""
+@Kelvin Makau
+"""
+
 # It's a simple program for calculating the AREA OF A CIRCLE
 # import math since it contains the value of pi
 import math
